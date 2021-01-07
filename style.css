@@ -1,0 +1,26 @@
+.sebak{
+    font-family: 'Redressed', cursive;
+    font-size: 30px;
+}
+.chow{
+    font-family: 'Redressed', cursive;
+    font-size: 50px;
+}
+.sim{
+    
+} 
+.full{
+    width: 900px;
+    height: auto;
+    margin: auto;
+    border: 2px solid red;
+}
+.full img{
+    max-width: 100%;
+}
+.para{
+    background: rgb(196, 182, 182);
+}
+span{
+    color: blue;
+}
